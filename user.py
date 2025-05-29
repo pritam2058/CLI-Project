@@ -9,6 +9,14 @@ def create_connection():
     except Exception as e:
         print(e)
 
+
+# #####################
+# 1. change the  code
+# 2. git add .
+# 3. git commit -m "Your message"
+# 4. git push
+# ######################
+
 INPUT_STRING="""
 Enter the option:
     1. CREATE TABLE
